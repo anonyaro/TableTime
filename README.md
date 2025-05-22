@@ -1,2 +1,2 @@
 # TableTime
-TableTime by xeNYARO
+TableTime by xeNYARO (aka anonyaro)
