@@ -1,5 +1,5 @@
 # TableTime by xeNYARO (aka anonyaro) ver. 1.0.x 
-[image](https://github.com/user-attachments/assets/4d06134f-574c-4809-9ce6-c1aa7495dd75)
+![image](https://github.com/user-attachments/assets/c9640528-4c36-47e5-9827-2008cb180f7e)
 
 # Минимальные требования 
 | Компонент              | Требование                                                  |
