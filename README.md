@@ -1,4 +1,4 @@
-# **TableTime by xeNYARO (aka anonyaro) ver. 1.0.x**
+# **TableTime by xeNYARO (a.k.a anonyaro) ver. 1.0.x**
 ![image](https://github.com/user-attachments/assets/c9640528-4c36-47e5-9827-2008cb180f7e)
 
 # **Минимальные требования**   
