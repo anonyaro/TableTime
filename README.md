@@ -1,5 +1,6 @@
 # **TableTime by xeNYARO (a.k.a anonyaro) ver. 1.0.x**
 ![image](https://github.com/user-attachments/assets/c9640528-4c36-47e5-9827-2008cb180f7e)
+https://github.com/user-attachments/assets/d23790ea-0fc1-4caf-9633-b4c39519d819
 
 # **Мануал к скачиванию и использованию**  
 1. **Скачиваете в Releases в зависимости от битности операционки 64x-64бит 32х-32битный и сам архив БДшки, запускаете (само собой разархивируете), а потом уже в самом меню настроек также можно выбрать БДшку**
