@@ -18,7 +18,10 @@ https://github.com/user-attachments/assets/604f823c-d1eb-4854-bc54-21e1b2b0c521
       style="display:block;"
     />
   </a>
-  
+
+# **Build manual**
+*If you want to build the project form scratch make sure about dependencies location, put everything into one directory if having troubles or change the path inside configurations*  
+
 # **Technical Stack & Features**
 | Technology | Description |
 | :--- | :--- |
