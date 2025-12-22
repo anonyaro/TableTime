@@ -1,6 +1,6 @@
 # **TableTime by anonyaro (a.k.a xenyaro) ver. 1.0.x**  
 # **An open-source game inspired by TableTime for playing with friends guess which words were placed based on the context meaning.**
-# **Before installation or compilation, ensure you review the: [License](https://github.com/anonyaro/TableTime/blob/master/LICENSE)**
+# **Before installation or building TableTime (Cards_by_xeNYARO), ensure you review the: [License](https://github.com/anonyaro/TableTime/blob/master/LICENSE)**
 
 https://github.com/user-attachments/assets/604f823c-d1eb-4854-bc54-21e1b2b0c521
 
