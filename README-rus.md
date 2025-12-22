@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/828dc922-e0ab-415a-8664-341dd14b377b
 2. **Синхронизация профилирования - это визуальная вертикальная синхронизация**  
 3. **Если найдете баги писать лучше в Issues проекта или мне ткнув на меня в меню О программе и не только)**  
 
-# [**И не забудьте поддержать проект если заинтересованы**| ContextokenizeX](https://www.donationalerts.com/r/xenyaro)
+# [**И не забудьте поддержать проект если заинтересованы**](https://www.donationalerts.com/r/xenyaro)
   <a href="https://www.donationalerts.com/r/xenyaro">
     <img 
       src="https://github.com/user-attachments/assets/c89418ad-5a77-4cca-961f-bd8613ad0466"
