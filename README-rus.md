@@ -1,6 +1,4 @@
-# **TableTime by xeNYARO (a.k.a anonyaro) ver. 1.0.x**  
-<br>**Опенсурс игра по мотивам TableTime для игры с друзьями угадайте какие слова были проставлены по значению**</br>   
-<br>**Перед установкой или сборкой обязательно ознакомьтесь c [Лицензией](https://github.com/anonyaro/TableTime/blob/master/LICENSE)**</br>  
+# **TableTime by xeNYARO (a.k.a anonyaro) ver. 1.0.x**  <br>**Опенсурс игра по мотивам TableTime для игры с друзьями угадайте какие слова были проставлены по значению**</br>   <br>**Перед установкой или сборкой обязательно ознакомьтесь c [Лицензией](https://github.com/anonyaro/TableTime/blob/master/LICENSE)**</br>  
 
 https://github.com/user-attachments/assets/828dc922-e0ab-415a-8664-341dd14b377b
 
